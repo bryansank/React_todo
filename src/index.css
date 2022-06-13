@@ -1,0 +1,12 @@
+#root_app{
+    margin: 0 24px;
+    position: relative;
+    min-height: 100vh;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F2F4F5;
+    color: #1E1E1F;
+    font-family: 'Open Sans',Arial, Helvetica, sans-serif;
+}
